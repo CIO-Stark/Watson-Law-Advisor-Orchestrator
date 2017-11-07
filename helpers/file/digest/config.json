@@ -1,0 +1,6 @@
+{
+  "targetDatabase": "clipping-data",
+  "keywordRelevance": 0.5,
+  "categoryRelevance": 0.5,
+  "validLanguages": ["de", "fr", "ja", "es", "pt", "en"]
+}

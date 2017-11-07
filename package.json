@@ -1,0 +1,32 @@
+{
+  "name": "orchestrator",
+  "version": "1.0.0",
+  "description": "Watson Law Advisor Orchestrator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Guilherme Oka (goka@br.ibm.com)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cfenv": "^1.0.4",
+    "cloudant": "^1.7.1",
+    "compression": "^1.6.2",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.1",
+    "cors": "^2.8.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1",
+    "formidable": "^1.1.1",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.18.1",
+    "natural": "^0.5.4",
+    "path": "^0.12.7",
+    "request": "^2.80.0",
+    "request-promise": "^4.1.1",
+    "should": "^13.0.1",
+    "vcap_services": "^0.2.0",
+    "watson-developer-cloud": "^2.22.2"
+  }
+}
